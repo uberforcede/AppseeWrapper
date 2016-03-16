@@ -32,7 +32,7 @@ First you need to import the Framework:
 import AppseeW
 
 ```
-GA's documentation states to start the service like this:
+Appsee's documentation states to start the service like this:
 
 ```swift
 

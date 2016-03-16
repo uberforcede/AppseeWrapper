@@ -43,6 +43,7 @@
 		3E153CDD1C998ADE003069DD /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		3E153CDF1C998C2E003069DD /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
 		3E153CEB1C9991EE003069DD /* Appsee */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = Appsee; sourceTree = "<group>"; };
+		3E153CF51C99999E003069DD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		B11DD9ED1C6BE46100BDE182 /* AppseeW.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AppseeW.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B11DD9F01C6BE46100BDE182 /* AppseeW.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppseeW.h; sourceTree = "<group>"; };
 		B11DD9F21C6BE46100BDE182 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -72,6 +73,7 @@
 		B11DD9E31C6BE46100BDE182 = {
 			isa = PBXGroup;
 			children = (
+				3E153CF51C99999E003069DD /* README.md */,
 				B11DD9EF1C6BE46100BDE182 /* Appsee */,
 				B11DD9EE1C6BE46100BDE182 /* Products */,
 			);
